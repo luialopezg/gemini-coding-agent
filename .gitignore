@@ -1,0 +1,4 @@
+# Archivos y directorios a ignorar en Git
+.env
+__pycache__/
+venv/
